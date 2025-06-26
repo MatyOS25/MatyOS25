@@ -35,7 +35,7 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Bevy](https://img.shields.io/badge/bevy-%23232326.svg?style=for-the-badge&logo=bevy&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
 
 ### 🔧 **Sistemas & Infraestrutura**
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 
 ### 📝 **Documentação & Produtividade**
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
@@ -46,11 +46,8 @@
 ### 🛡️ **Qualidade & Monitoramento**
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-### 🐍 **Ambientes Python**
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-
-### 🎬 **Multimídia**
-![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
+### 💻 **Editores & IDEs**
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 ---
 
@@ -60,11 +57,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=MatyOS25&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MatyOS25&theme=dark&hide_border=false)<br/>
 
-### 💻 **Linguagens Mais Usadas** (Incluindo Repositórios Privados)
+### 💻 **Linguagens Mais Usadas** 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatyOS25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
-
-### 📊 **Estatísticas Detalhadas de Linguagens**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatyOS25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=400)
 
 ### 🏆 **Troféus GitHub**
 ![](https://github-profile-trophy.vercel.app/?username=MatyOS25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -82,23 +76,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-## 🚀 **Projetos em Destaque**
-
-<!-- Aqui você pode adicionar cards dos seus projetos mais importantes -->
-<!-- Exemplo:
-<a href="https://github.com/MatyOS25/projeto-destaque">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatyOS25&repo=projeto-destaque&theme=dark" />
-</a>
--->
-
----
-
-## 📫 **Como me encontrar**
-
-- 📧 **Email**: [Seu email aqui]
-- 💼 **LinkedIn**: [Seu LinkedIn aqui]
-- 🌐 **Portfolio**: [Seu portfolio aqui]
 
 ---
 
